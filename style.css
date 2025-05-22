@@ -137,6 +137,9 @@ ol li{
     display: none;
 }
 @media(max-width:500px){
+    .nav{
+        width: 100vw;
+    }
     .para{
         display: none;
     }
